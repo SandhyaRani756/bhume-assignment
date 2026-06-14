@@ -1,3 +1,20 @@
+# BhuMe Assignment Submission
+
+Candidate: Sandhyarani
+
+## Results
+
+- Median IoU: 0.713
+- Baseline IoU: 0.612
+- Improvement: +0.112
+- Accurate @ IoU ≥ 0.5: 100%
+
+## Repository
+
+This repository contains my solution for the BhuMe Boundary Correction assignment.
+
+
+
 # BhuMe Boundary Take-Home: Starter Kit
 
 The official plot outlines in Maharashtra's land records sit metres off the real fields (an
